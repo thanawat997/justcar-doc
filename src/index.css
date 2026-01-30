@@ -5,6 +5,7 @@
 @layer base {
   body {
     @apply antialiased text-gray-900;
+    overscroll-behavior: none;
   }
 }
 
